@@ -3,4 +3,5 @@ Trabalho solicitado pelo professor Luís Araújo na disciplina de Desenvolviment
 Para o posicionamento dos elementos foi-se utilizado o Flexbox e o CSSGrid.
 
 /index.html Para a página de login.
+
 /home.html Para a tela do usuário.
